@@ -11,7 +11,7 @@ body{
     width: 100%;
     height: 100vh;
     position: relative;
-    background: #b11f74;
+    background: #272429;
 }
 
 .container{
@@ -55,25 +55,25 @@ body{
     height: 15px;
     margin: 0 15px;
     border-radius: 50%;
-    background: #b11f74;
+    background: #272429;
     cursor: pointer;
     position: relative;
 }
 
 .container .product .color .green{
-    background: #29416e;
+    background: #887560;
 }
 
 .container .product .color .black{
-    background: #a456ee;
+    background: #f13151;
 }
 
 .container .product .color .red{
-    background: #35f083;
+    background: #3d4546;
 }
 
 .container .product .color .orange{
-    background: #b11f74;
+    background: #272429;
 }
 
 .container .product .color .active::after{
@@ -102,12 +102,12 @@ body{
 }
 
 .container .product .detail p span{
-    color: #b11f74;
+    color: #272429;
 }
 
 .container .product .detail a{
     text-decoration: none;
-    background: #b11f74;
+    background: #272429;
     padding: 8px 45px;
     border-radius: 8px;
     color: white;
